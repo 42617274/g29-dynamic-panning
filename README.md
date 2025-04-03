@@ -1,7 +1,11 @@
 1 - Install and configure VoiceMeeter to have microphone input in Stripe[0] (First position)
+
 2 - Install needed package for the script (pygame, socket,ctypes,time)
+
 3 - Connect your wheel 
+
 4 - Change VOICEMEETER_IP & VOICEMEETER_PORT if needed
+
 5 - Launch the script 
 
 
