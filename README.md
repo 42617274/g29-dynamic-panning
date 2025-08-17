@@ -1,4 +1,4 @@
-This project aims to control panning (balance left/right of the microphone) using g29 wheel pedals, this is fully working
+This project aims to control microphone panning (balance left/right of the microphone) using g29 wheel pedals, this is fully working
 
 
 1 - Install and configure VoiceMeeter to have microphone input in Stripe[0] (First position)
